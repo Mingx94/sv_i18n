@@ -1,0 +1,6 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello": "你好",
+	"svelte_link": "這裡有 <link>svelte 的文件</link>。",
+	"contact": "請隨意寄信給我們 <link href='mailto:{email}'>電子郵件</link>!"
+}

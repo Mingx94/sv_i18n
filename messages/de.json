@@ -1,0 +1,6 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello": "Hallo",
+	"svelte_link": "Hier sind die <link>Svelte Dokumente</link>.",
+	"contact": "Für Kontakt senden Sie uns bitte eine <link href='mailto:{email}'>email</link>!"
+}
